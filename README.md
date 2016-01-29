@@ -1,1 +1,1 @@
-"# malachi_pig_latin" 
+# malachi_pig_latin

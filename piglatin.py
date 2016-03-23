@@ -1,5 +1,6 @@
 """
 To Do:
+-
  - split sentence (or essay) by spaces
  - check for a capital letter at the beginning
  - make a variable for whether or not letter is capitalized
